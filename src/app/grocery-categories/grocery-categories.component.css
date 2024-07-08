@@ -1,0 +1,32 @@
+/* src/app/grocery-categories/grocery-categories.component.css
+.grocery-categories {
+    text-align: center;
+  }
+  
+  .grocery-categories h2 {
+    color: #f3921f;
+    margin-bottom: 20px;
+  }
+  
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .category {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .category img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  
+  .category p {
+    margin: 0;
+  }
+   */

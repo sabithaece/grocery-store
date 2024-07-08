@@ -1,0 +1,58 @@
+/* how-it-works.component.css
+.how-it-works {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .phone-image {
+    position: relative;
+  }
+  
+  .phone-image img {
+    max-width: 100%;
+  }
+  
+  .screen-content {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    width: 80%;
+  }
+  
+  .steps {
+    max-width: 400px;
+  }
+  
+  .steps h2 {
+    color: #f3921f;
+  }
+  
+  .steps p {
+    margin-bottom: 20px;
+  }
+  
+  .step {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .step .icon {
+    margin-right: 10px;
+  }
+  
+  .step .icon img {
+    max-width: 40px;
+  }
+  
+  .step .text h3 {
+    margin: 0;
+    color: #f3921f;
+  }
+  
+  .step .text p {
+    margin: 0;
+  }
+   */
